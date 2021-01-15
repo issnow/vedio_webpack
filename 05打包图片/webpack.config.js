@@ -2,7 +2,7 @@
  * @Author: snow
  * @Date: 2020-12-30 18:35:09
  * @LastEditors: snow
- * @LastEditTime: 2021-01-14 20:02:19
+ * @LastEditTime: 2021-01-15 11:48:55
  * @Description: file content
  */
 const path = require('path');
@@ -17,11 +17,7 @@ module.exports = {
     rules: [
       {
         test: /\.(c|le)ss$/,
-        use: [
-          'style-loader',
-          'css-loader',
-          'less-loader'
-        ]
+        use: ['style-loader','css-loader','less-loader']
       },
       {
         // !问题:不能处理html本地的img图片,使用html-loader处理

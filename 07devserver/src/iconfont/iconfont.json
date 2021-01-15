@@ -1,0 +1,205 @@
+{
+  "id": "2214862",
+  "name": "tksass",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5392521",
+      "name": "财务",
+      "font_class": "homeFinance",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "14499644",
+      "name": "设备",
+      "font_class": "shebei",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "3717479",
+      "name": "音频服务",
+      "font_class": "yinpin",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "14444761",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "1719348",
+      "name": "监控",
+      "font_class": "jiankong",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "3904398",
+      "name": "学生",
+      "font_class": "xuesheng",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "5219481",
+      "name": "女老师",
+      "font_class": "nvlaoshi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "5219494",
+      "name": "男老师",
+      "font_class": "nanlaoshi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "16367981",
+      "name": "线性老师",
+      "font_class": "xianxinglaoshi",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "16367982",
+      "name": "线性男学生",
+      "font_class": "xianxingnanxuesheng",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "16367996",
+      "name": "线性女学生",
+      "font_class": "xianxingnvxuesheng",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "2402040",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "11520427",
+      "name": "预览",
+      "font_class": "yulan",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "19173765",
+      "name": "homeFinance",
+      "font_class": "finance_1238661_easyiconnet",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "4772842",
+      "name": "数据开发—资源库",
+      "font_class": "homeResource",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "12548834",
+      "name": "课程",
+      "font_class": "homeCourse",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "1464044",
+      "name": "麦克风",
+      "font_class": "maikefeng",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "1464111",
+      "name": "摄像头",
+      "font_class": "shexiangtou",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "3958515",
+      "name": "global",
+      "font_class": "wangluo",
+      "unicode": "e8ce",
+      "unicode_decimal": 59598
+    },
+    {
+      "icon_id": "18658022",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "18405585",
+      "name": "上课，老师，我",
+      "font_class": "homeTeaStu",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "587301",
+      "name": "部门",
+      "font_class": "homeBranch",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "974267",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "593038",
+      "name": "user04",
+      "font_class": "user",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "7239781",
+      "name": "global",
+      "font_class": "global",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "11121371",
+      "name": "企业管理器",
+      "font_class": "homeCompany",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "16103146",
+      "name": "角色（全局）",
+      "font_class": "homeRole",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "1487403",
+      "name": "user",
+      "font_class": "homeUser",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
